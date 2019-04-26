@@ -17,14 +17,14 @@
     "import/prefer-default-export": "off",
     "no-plusplus": "off",
     "array-callback-return": "off",
-    "no-restricted-syntax":"off",
-    "no-param-reassign":"off",
-    "no-prototype-builtins":"off",
+    "no-restricted-syntax": "off",
+    "no-param-reassign": "off",
+    "no-prototype-builtins": "off",
     "flowtype-errors/show-errors": "error",
     "no-console": "off",
-        "semi": [
-            "error",
-            "always"
-        ]
+    "semi": [
+      "error",
+      "always"
+    ]
   }
 }
